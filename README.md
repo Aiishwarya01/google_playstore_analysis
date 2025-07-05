@@ -66,9 +66,11 @@ EDA involves:
 
 google-playstore-eda/
 
- ┣ 📄 play_store_cleaned.ipynb
+ ┣ 📄 Google_PlayStore_EDA.ipynb
  
- ┣ 📄 google_play_store_dataset.csv 
+ ┣ 📄 google_playstore_dataset_raw.csv 
+
+ ┣ 📄 google_play_store_data_cleaned.csv 
  
  ┗ 📝 README.md
 
