@@ -68,9 +68,16 @@ google-playstore-eda/
 
  ┣ 📄 play_store_cleaned.ipynb
  
- ┣ 📄 google_play_store_dataset.csv
+ ┣ 📄 google_play_store_dataset.csv 
  
  ┗ 📝 README.md
+
+
+📥 Dataset Download Links
+
+🔗 [Download Raw Dataset](https://raw.githubusercontent.com/Aiishwarya01/google_playstore_analysis/refs/heads/main/data/google_playstore_dataset_raw.csv)
+
+🔗 Download Cleaned Dataset
 
 
 👤 Author
