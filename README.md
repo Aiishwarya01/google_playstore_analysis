@@ -2,6 +2,7 @@
 
 This project performs Exploratory Data Analysis (EDA) on a real-world dataset of over 10,000 Android applications available on the Google Play Store. The aim is to uncover trends, patterns, and insights using Python libraries like Pandas and NumPy.
 
+---
 
 🎯 Objective
 
@@ -13,6 +14,7 @@ This project performs Exploratory Data Analysis (EDA) on a real-world dataset of
 
 🔹 Identify key insights to understand top-performing apps
 
+---
 
 🧪 What is EDA?
 
@@ -26,17 +28,21 @@ EDA involves:
 
 ✅ Detecting outliers or anomalies
 
+---
 
 🛠️ Technologies Used
 
-🔧 Python
+🐍 Python 3.x
+  
+📦 pandas – data manipulation and analysis  
 
-🔧 Pandas
+🔢 numpy – numerical computation  
 
-🔧 NumPy
+🧠 scikit-learn – used SimpleImputer for missing value handling  
 
-🔧 Jupyter Notebook
+📓 Jupyter Notebook – interactive coding and documentation
 
+---
 
 📁 Dataset Information
 
@@ -48,6 +54,7 @@ EDA involves:
 
 📌 Key fields: App, Category, Rating, Reviews, Size, Installs, Price
 
+---
 
 📌 Key EDA Tasks Performed
 
@@ -61,6 +68,7 @@ EDA involves:
 
 📤 Exported results and summaries
 
+---
 
 🧾 Project Structure
 
@@ -74,22 +82,16 @@ google-playstore-eda/
  
  ┗ 📝 README.md
 
+---
 
 📥 Dataset Download Links
 
 🔗 [Download Raw Dataset](https://raw.githubusercontent.com/Aiishwarya01/google_playstore_analysis/refs/heads/main/data/google_playstore_dataset_raw.csv)
 
-🔗 Download Cleaned Dataset
+🔗 [Download Cleaned Dataset
+(https://raw.githubusercontent.com/Aiishwarya01/google_playstore_analysis/refs/heads/main/data/google_play_store_data_cleaned.csv)
 
-
-👤 Author
-
-Aishwarya S R
-
-📧 aishwaryasr097@gmail.com
-
-🔗 [linkedin.com/in/aishwarya-sr-](https://www.linkedin.com/in/aishwarya-sr-/)
-
+---
 
 🏁 Conclusion
 
