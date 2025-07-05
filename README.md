@@ -1,2 +1,4 @@
-# google_playstore_analysis
-Data analysis of 10,000+ apps from the Google Play Store using Pandas &amp; NumPy
+# google-playstore-eda
+
+Exploratory Data Analysis on Google Play Store dataset using Pandas and NumPy
+
