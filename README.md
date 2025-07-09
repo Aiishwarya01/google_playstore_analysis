@@ -98,8 +98,16 @@ This EDA project demonstrates how basic Python tools can uncover actionable insi
 
 It’s a great foundational step toward more advanced analysis or predictive modeling.
 
+---
 
-## Contact
+## 📬 Contact
 
-Aishwarya S R
+**Aishwarya SR**  
+
+📧 aishwaryasr097@gmail.com 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-sr/)  
+
+💻 [GitHub](https://github.com/Aiishwarya01)
+
 
