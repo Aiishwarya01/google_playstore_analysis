@@ -1,10 +1,10 @@
-📊 Google Play Store EDA Project
+## 📊 Google Play Store EDA Project
 
 This project performs Exploratory Data Analysis (EDA) on a real-world dataset of over 10,000 Android applications available on the Google Play Store. The aim is to uncover trends, patterns, and insights using Python libraries like Pandas and NumPy.
 
 ---
 
-🎯 Objective
+## 🎯 Objective
 
 🔹 Explore the structure and quality of the dataset
 
@@ -16,7 +16,7 @@ This project performs Exploratory Data Analysis (EDA) on a real-world dataset of
 
 ---
 
-🧪 What is EDA?
+## 🧪 What is EDA?
 
 EDA involves:
 
@@ -30,7 +30,7 @@ EDA involves:
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 🐍 Python 3.x
   
@@ -44,7 +44,7 @@ EDA involves:
 
 ---
 
-📁 Dataset Information
+## 📁 Dataset Information
 
 📄 File: google_play_store_dataset.csv
 
@@ -56,7 +56,7 @@ EDA involves:
 
 ---
 
-📌 Key EDA Tasks Performed
+## 📌 Key EDA Tasks Performed
 
 📊 Loaded and explored the dataset
 
@@ -70,7 +70,7 @@ EDA involves:
 
 ---
 
-🧾 Project Structure
+## 🧾 Project Structure
 
 google-playstore-eda/
 
@@ -84,7 +84,7 @@ google-playstore-eda/
 
 ---
 
-📥 Dataset Download Links
+## 📥 Dataset Download Links
 
 🔗 [Download Raw Dataset](https://raw.githubusercontent.com/Aiishwarya01/google_playstore_analysis/refs/heads/main/data/google_playstore_dataset_raw.csv)
 
@@ -92,12 +92,14 @@ google-playstore-eda/
 
 ---
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 This EDA project demonstrates how basic Python tools can uncover actionable insights from messy, real-world datasets. 
 
 It’s a great foundational step toward more advanced analysis or predictive modeling.
 
 
+## Contact
 
+Aishwarya S R
 
